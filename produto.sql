@@ -1,0 +1,1 @@
+SELECT * FROM tb_Produto WHERE preco < 500;
